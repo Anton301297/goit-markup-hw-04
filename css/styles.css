@@ -40,14 +40,14 @@ body {
 }
 .icon-envelope {
 	margin-right: 8px;
-	color: currentColor;
+	fill: currentColor;
 }
 .icon-envelope:hover {
-	fill: var(--accent-color);
+	fill: currentColor;
 }
 .icon-smartphone {
 	margin-right: 8px;
-	color: currentColor;
+	fill: currentColor;
 }
 .icon-smartphone:hover {
 	fill: var(--accent-color);
